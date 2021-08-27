@@ -9,7 +9,7 @@
 
 int main(int argc, char **argv) {
 
-    pthbtbtbt!
+    that was stupid
 
     return 0;
 }
