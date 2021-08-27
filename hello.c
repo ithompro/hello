@@ -9,13 +9,6 @@
 
 int main(int argc, char **argv) {
 
-    printf("Ian Pro!\n");
-    printf("computer science!\n");
-    printf("New changes!\n");
-    printf("New changes!\n");
-    printf("New changes!\n");
-    printf("New changes!\n");
-    printf("New changes!\n");
-    printf("New changes!\n");
+
     return 0;
 }
